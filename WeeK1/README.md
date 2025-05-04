@@ -2,11 +2,11 @@
 
 ![Banner](https://via.placeholder.com/800x200?text=LLM+Foundations+%26+AI+Brochure+Generator)
 
-## 📋 Vue d'ensemble
+##  Vue d'ensemble
 
 Ce projet constitue la première semaine du cours Udemy "[LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering)". Il combine l'apprentissage des fondamentaux des LLM avec un projet pratique: un générateur de brochures marketing alimenté par l'IA qui analyse les sites web d'entreprises et produit du contenu promotionnel professionnel.
 
-## 🧠 Structure du Projet
+##  Structure du Projet
 
 ```mermaid
 mindmap
@@ -23,7 +23,7 @@ mindmap
       [Formatage Markdown]
 ```
 
-## 🎯 Objectifs d'Apprentissage
+##  Objectifs d'Apprentissage
 
 - Comprendre les bases de l'ingénierie LLM et l'écosystème des modèles
 - Configurer un environnement de développement pour projets LLM
@@ -33,7 +33,7 @@ mindmap
 - Appliquer des techniques de prompting avancées (multi-shot)
 - Créer un outil de génération de contenu marketing automatisé
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 - **Environnement**: Anaconda/virtualenv, JupyterLab
 - **Langages**: Python 3.10+
@@ -42,7 +42,7 @@ mindmap
 - **Sécurité**: Fichiers .env pour stockage des API keys
 - **Formatage**: Markdown
 
-## 🔧 Installation et Configuration
+##  Installation et Configuration
 
 ```bash
 # Cloner le dépôt
@@ -64,7 +64,7 @@ pip install openai python-dotenv beautifulsoup4 requests jupyter
 echo "OPENAI_API_KEY=votre-clé-api" > .env
 ```
 
-## 📚 Contenu du Cours (Semaine 1)
+##  Contenu du Cours (Semaine 1)
 
 ### Jour 1: Introduction et Configuration
 - Installation d'Ollama pour déploiement local de LLM
@@ -94,7 +94,7 @@ echo "OPENAI_API_KEY=votre-clé-api" > .env
 - Ajustements markdown et streaming dans JupyterLab
 - Prompting multi-shot pour améliorer la fiabilité des LLM
 
-## 💻 Projet Principal: Générateur de Brochures Marketing
+##  Projet Principal: Générateur de Brochures Marketing
 
 ### Fonctionnalités
 - Extraction de contenu web depuis des sites d'entreprise
@@ -209,7 +209,7 @@ def extract_structured_info(content):
     return response.choices[0].message.content
 ```
 
-## 📝 Exercices et Défis
+##  Exercices et Défis
 
 1. **Comparaison de Modèles**
    - Comparer les performances de GPT-4 vs Ollama (modèles locaux) pour la génération de brochures
@@ -231,14 +231,14 @@ def extract_structured_info(content):
 - [Guide BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Techniques de Prompting Avancées](https://www.promptingguide.ai/)
 
-## 🚀 Prochaines Étapes
+##  Prochaines Étapes
 
 - Ajouter une interface web simple avec Streamlit
 - Implémenter le support pour plusieurs langues
 - Explorer l'extraction d'informations visuelles
 - Intégrer formatage PDF pour les brochures
 
-## 📊 Journal de Progression
+##  Journal de Progression
 
 ### Tâches Complétées
 - ✅ Configuration de l'environnement de développement

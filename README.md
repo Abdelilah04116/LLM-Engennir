@@ -2,11 +2,11 @@
 
 ![Banner LLM Engineering](https://via.placeholder.com/800x200?text=LLM+Engineering+Journey)
 
-## 📋 Vue d'ensemble
+##  Vue d'ensemble
 
 Ce dépôt contient tous mes projets réalisés dans le cadre du cours Udemy "[LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering)". À travers ce parcours de 8 semaines, je développe progressivement des compétences avancées en ingénierie des grands modèles de langage (LLM), en construisant des applications concrètes et en explorant différentes techniques d'optimisation.
 
-## 🧠 Carte Mentale du Parcours
+##  Carte Mentale du Parcours
 
 ```
                            +----------------------------+
@@ -37,7 +37,7 @@ Ce dépôt contient tous mes projets réalisés dans le cadre du cours Udemy "[L
                                                                        Agents
 ```
 
-## 🎯 Objectifs d'Apprentissage
+##  Objectifs d'Apprentissage
 
 Durant ce parcours, je vais:
 
@@ -47,9 +47,9 @@ Durant ce parcours, je vais:
 - Construire des systèmes multimodaux intégrant texte, audio et interfaces utilisateur
 - Comparer et évaluer les performances de différentes approches LLM
 
-## 📚 Structure du Cours (8 Semaines)
+##  Structure du Cours (8 Semaines)
 
-### 🚀 Phase 1: Fondations LLM (Semaines 1-3)
+###  Phase 1: Fondations LLM (Semaines 1-3)
 
 #### Semaine 1: Générateur Intelligent de Brochures
 **Projet 1:** Développement d'un générateur de brochures alimenté par IA qui explore et analyse intelligemment les sites web d'entreprises.
@@ -245,7 +245,7 @@ Durant ce parcours, je vais:
 - Prise de décision autonome
 - Intégration de systèmes de notification
 
-## 💡 Techniques & Méthodologies
+##  Techniques & Méthodologies
 
 Tout au long du parcours, j'explore ces techniques essentielles:
 
@@ -286,7 +286,7 @@ Tout au long du parcours, j'explore ces techniques essentielles:
 - **Bases de données vectorielles:** Pinecone, Weaviate, Chroma
 - **Outils de développement:** Visual Studio Code, Jupyter, Docker
 
-## 📈 Progression du Parcours
+##  Progression du Parcours
 
 | Semaine | Projet | Status | Compétences Acquises |
 |---------|--------|--------|----------------------|
@@ -299,7 +299,7 @@ Tout au long du parcours, j'explore ces techniques essentielles:
 | 7 | Prédiction Prix (Fine-tuning) | 📅 À venir | Fine-tuning, Évaluation comparative |
 | 8 | Système Multi-agents | 📅 À venir | Architecture multi-agents, Autonomie |
 
-## 📂 Structure du Dépôt
+##  Structure du Dépôt
 
 ```
 llm-engineering-course/
@@ -346,7 +346,7 @@ llm-engineering-course/
 └── README.md (ce fichier)
 ```
 
-## 🚀 Installation et Configuration
+##  Installation et Configuration
 
 Pour exécuter ces projets localement:
 
